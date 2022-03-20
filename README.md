@@ -7,7 +7,7 @@ You may need to install HackRF to your PC, I have just installed GNU Radio 3.8.2
 Download the code run the one.exe on the command window such as >one.exe -s GSM900
 as it happens >kal.exe -s GSM900
 
-Best way  \Release>one.exe -s GSM900 -g 40 -l 60
+Best way is to use  \Release>one.exe -s GSM900 -g 40 -l 60
 
 whole code is taken from kalibrate HackRF program from https://github.com/scateu/kalibrate-hackrf 
 
