@@ -1,2 +1,2 @@
-# -smail-Kaya
+# Ismail-Kaya
 SDR Radio Stduies
